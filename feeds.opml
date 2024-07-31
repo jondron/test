@@ -54,7 +54,6 @@
             <outline type="rss" text="bavatuesdays" title="bavatuesdays" xmlUrl="https://bavatuesdays.com/feed/"/>
             <outline type="rss" text="Psyche | on the human condition" title="Psyche | on the human condition" xmlUrl="https://psyche.co/feed"/>
             <outline type="rss" text="Aeon | a world of ideas" title="Aeon | a world of ideas" xmlUrl="https://aeon.co/feed.rss"/>
-            <outline type="rss" text="www.westernstandard.news - RSS Results of type article with keyword(s) of #topstory" title="www.westernstandard.news - RSS Results of type article with keyword(s) of #topstory" xmlUrl="http://www.westernstandard.news/search/?f=rss&t=article&l=50&s=start_time&sd=desc&k%5B%5D=%23topstory"/>
             <outline type="rss" text="Vancouver Tech Journal" title="Vancouver Tech Journal" xmlUrl="https://www.vantechjournal.com//feed"/>
             <outline type="rss" text="Academica Top Ten" title="Academica Top Ten" xmlUrl="http://feedpress.me/AcademicaTopTen"/>
             <outline type="rss" text="Scout Magazine" title="Scout Magazine" xmlUrl="http://scoutmagazine.ca/feed/"/>
@@ -219,7 +218,7 @@
             <outline type="rss" text="PopularMechanics.com - Science: Research" title="PopularMechanics.com - Science: Research" xmlUrl="http://feeds.popularmechanics.com/pm/science/research"/>
             <outline type="rss" text="TechRadar - All the latest technology news" title="TechRadar - All the latest technology news" xmlUrl="http://www.techradar.com/rss/reviews/gadgets"/>
             <outline type="rss" text="CNET" title="CNET" xmlUrl="https://www.cnet.com/rss/all/"/>
-            <outline type="rss" text="New Atlas" title="New Atlas" xmlUrl="http://feeds.feedblitz.com/newatlas&x=1"/>
+            <outline type="rss" text="New Atlas" title="New Atlas" xmlUrl="http://feeds.feedblitz.com/newatlas"/>
             <outline type="rss" text="Sean Carroll" title="Sean Carroll" xmlUrl="http://www.preposterousuniverse.com/blog/feed/"/>
             <outline type="rss" text="CleanTechnica" title="CleanTechnica" xmlUrl="https://cleantechnica.com/rss"/>
             <outline type="rss" text="Coding Horror" title="Coding Horror" xmlUrl="https://blog.codinghorror.com/rss/"/>
@@ -235,7 +234,7 @@
             <outline type="rss" text="Tech" title="Tech" xmlUrl="https://secure.huffingtonpost.com/feeds/verticals/technology/index.xml"/>
             <outline type="rss" text="Gizmodo" title="Gizmodo" xmlUrl="http://gizmodo.com/rss"/>
             <outline type="rss" text="CBC | Technology News" title="CBC | Technology News" xmlUrl="http://syndication.cbc.ca/partnerrss/technology.xml"/>
-            <outline type="rss" text="WERD. Gear & Clothing Buying Guides for Men" title="WERD. Gear & Clothing Buying Guides for Men" xmlUrl="http://www.werd.com/feed/"/>
+            <outline type="rss" text="WERD. Gear &#038;; Clothing Buying Guides for Men" title="WERD. Gear &#038;; Clothing Buying Guides for Men" xmlUrl="http://www.werd.com/feed/"/>
             <outline type="rss" text="Naked Scientists News Articles RSS Feed" title="Naked Scientists News Articles RSS Feed" xmlUrl="https://www.thenakedscientists.com/rss/science_news.xml"/>
             <outline type="rss" text="Slate Magazine" title="Slate Magazine" xmlUrl="http://www.slate.com/blogs/bad_astronomy.fulltext.all.rss"/>
             <outline type="rss" text="Gear Patrol" title="Gear Patrol" xmlUrl="https://gearpatrol.com/feed/"/>
@@ -278,7 +277,7 @@
             <outline type="rss" text="Waxy.org" title="Waxy.org" xmlUrl="https://waxy.org/feed/"/>
             <outline type="rss" text="https://nadiaeghbal.com/feed.xml" title="https://nadiaeghbal.com/feed.xml" xmlUrl="https://nadiaeghbal.com/feed.xml"/>
             <outline type="rss" text="Engineering blog | The Guardian" title="Engineering blog | The Guardian" xmlUrl="https://www.theguardian.com/info/series/engineering-blog/rss"/>
-            <outline type="rss" text="IndieNews English" title="IndieNews English" xmlUrl="https://granary.io/url?input=html&output=atom&url=https%3A%2F%2Fnews.indieweb.org%2Fen"/>
+            <outline type="rss" text="IndieNews English" title="IndieNews English" xmlUrl="https://granary.io/url?input=html&#038;output=atom&#038;url=https%3A%2F%2Fnews.indieweb.org%2Fen"/>
             <outline type="rss" text="Dries Buytaert" title="Dries Buytaert" xmlUrl="https://dri.es/rss.xml"/>
             <outline type="rss" text="https://amitgawande.com/feed.rss" title="https://amitgawande.com/feed.rss" xmlUrl="https://amitgawande.com/feed.rss"/>
             <outline type="rss" text="Marco.org" title="Marco.org" xmlUrl="https://marco.org/rss"/>
